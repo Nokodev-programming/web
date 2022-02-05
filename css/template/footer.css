@@ -1,0 +1,12 @@
+footer{
+    position: fixed;
+    background: #333;
+    color: white;
+    padding: 2em;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    transition: 2s ease-in-out;
+}
